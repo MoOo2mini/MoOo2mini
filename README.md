@@ -2,9 +2,8 @@
 👀 My dream is to be a computer developer. I want to create a web or app that helps people live comfortably.
 🏫 Soongsil Univ. 21
 
-___
 ## The language I'm learning.
 - C, Java, Python
-____
+
 ## I have experienced ...
 I haven't done anything yet, but I'll fill it up in the future.★
