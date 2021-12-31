@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @MoOo2mini
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I’m Minhee Lee
+👀 My dream is to be a computer developer. I want to create a web or app that helps people live comfortably.
+🏫 Soongsil Univ. 21
 
-<!---
-MoOo2mini/MoOo2mini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+___
+## The language I'm learning.
+- C, Java, Python
+
+__
+## I have experienced ...
+I haven't done anything yet, but I'll fill it up in the future.★
