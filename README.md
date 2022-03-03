@@ -4,7 +4,7 @@
 🏫 Soongsil Univ. 21
 
 ## The language I'm learning.
-- C, Java, Python
+- C, Python
 
 ## I have experienced ...
 I haven't done anything yet, but I'll fill it up in the future.★
