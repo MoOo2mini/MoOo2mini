@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Minhee Lee
-👀 My dream is to be a computer developer. I want to create a web or app that helps people live comfortably.
+👀 
 
-🏫 Soongsil Univ. 21
+🏫 Soongsil Univ. CSE
 
 ## The language I'm learning.
 - C, Python, Kotlin(android)
@@ -14,6 +14,6 @@
 
 `2022.01-02` 42서울 라피신 6기 2차 참여
 
-`2022.03- ` UMC
+`2022.03-` UMC
 
 `2022.03-` 42서울 본과정 참여
