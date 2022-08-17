@@ -9,11 +9,10 @@
 
 👉 Portfolio : https://minhelee.notion.site/UMC_Portfolio-e114e06f2b3f445f9be8fff915a91032
 
-## The language I'm learning.
+## language
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
-## I have experienced ...
 
-### 🕋 참여 경험 및 경력
+## 🕋 참여 경험 및 경력
 
 `2021.08-09` 씨아이 팀프로젝트_구글 공룡게임 만들기
 
