@@ -26,3 +26,5 @@
 `2022.10-11` Passrithm 앱 제작 - SW/DT 새싹 공모전 우수상 수상
 
 `2022.01-02` 거꾸로 가계부 앱 제작 - spring boot 파트 참여
+
+`2023.07-08` 숭실대 2023 SW Pioneer Program at University of Southern California 참여
