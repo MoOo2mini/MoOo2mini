@@ -28,3 +28,5 @@
 `2023.07` Fingerprint protection AI 기술 구현 - 2023 Southern California Korean American SW Pioneer Hackathon 1등 수상
 
 `2023.08` heAIth AI 기술 구현 - 숭실대 컴퓨터학부 소프트웨어공모전 학장상 수상
+
+`2024.01-` Effl 인턴 참여
