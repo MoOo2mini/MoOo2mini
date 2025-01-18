@@ -1,6 +1,5 @@
 # 👋 Hi, I’m Minhee Lee
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=minhee020">
 
 🏫 Soongsil Univ. CSE
   
