@@ -1,32 +1,28 @@
-# 👋 Hi, I’m Minhee Lee
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18&height=300&section=header&text=✨Welcome%20to%20Mini's%20github✨&fontSize=60)
 
+🏫 B.S. in Computer Science Engineering at Soongsil Univ.
 
-🏫 Soongsil Univ. CSE
-  
+🏫 M.S. course at EffL Lab @POSTECH EE, South Korea
+
 👉 velog : https://velog.io/@2mini   
 
-## 🕋 참여 경험 및 경력
+## 🕺 Club & Extracurricular Activities
+`2022.01-2022.08` Participated in 42 Seoul 6th cohort, 2nd phase
 
-`2021.08-09` 씨아이 팀프로젝트_구글 공룡게임 만들기
+`2022.03-2023.06` UMC 2nd and 3rd cohort (Android, Spring Boot)
 
-`2022.01-03` 42서울 라피신 6기 2차 참여
+`2022.09-12` SCCC
+Soongsil Computing Contest Club
 
-`2022.03-07` UMC android 파트 참여
+`2023.07-08` Participated in Soongsil University 2023 SW Pioneer Program at University of Southern California
 
-`2022.03-08` 42서울 본과정 참여
+`2024.01-05` EffL Lab Winter Internship @POSTECH EE
 
-`2022.07-11` 헬퍼 어플 안드로이드 파트 참여
+## 🏆 Awards
+`2022.11` Excellence Award in SW/DT Newcomer Contest
 
-`2022.10-11` Passrithm 앱 제작 - SW/DT 새싹 공모전 우수상 수상
+`2023.07` 1st place in 2023 Southern California Korean American SW Pioneer Hackathon - Implemented Fingerprint Protection AI Technology
 
-`2022.01-02` 거꾸로 가계부 앱 제작 - spring boot 파트 참여
 
-`2023.07-08` 숭실대 2023 SW Pioneer Program at University of Southern California 참여
+`2023.08` Dean's Award in Soongsil University Computer Science Department Software Contest - Implemented heAIth AI Technology
 
-`2023.07` Fingerprint protection AI 기술 구현 - 2023 Southern California Korean American SW Pioneer Hackathon 1등 수상
-
-`2023.08` heAIth AI 기술 구현 - 숭실대 컴퓨터학부 소프트웨어공모전 학장상 수상
-
-`2024.01-05` Effl 인턴 참여
-
-`2025.01-` M.S. course at EffL Lab @POSTECH EE, South Korea
