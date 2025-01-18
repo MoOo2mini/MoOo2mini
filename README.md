@@ -9,7 +9,7 @@
 ## 🕺 Club & Extracurricular Activities
 `2022.01-2022.08` Participated in 42 Seoul 6th cohort, 2nd phase
 
-`2022.03-2023.06` UMC 2nd and 3rd cohort (Android, Spring Boot)
+`2022.03-2023.06` UMC (2nd cohort: Android, 3rd cohort: Spring Boot)  
 
 `2022.09-2023.02` SCCC Soongsil Computing Contest Club
 
