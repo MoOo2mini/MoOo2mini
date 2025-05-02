@@ -4,7 +4,9 @@
 
 🏫 M.S. course at EffL Lab @POSTECH EE, South Korea
 
-👉 velog : https://velog.io/@2mini   
+👉 velog: https://velog.io/@2mini   
+
+👉 LinkedIn: https://www.linkedin.com/in/%EB%AF%BC%ED%9D%AC-%EC%9D%B4-42b651257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 ## 🕺 Club & Extracurricular Activities
 `2022.01-2022.08` Participated in 42 Seoul 6th cohort, 2nd phase
