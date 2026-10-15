@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18&height=300&section=header&text=✨Welcome%20to%20Mini's%20github✨&fontSize=60)
-
 🏫 B.S. in Computer Science Engineering at Soongsil Univ.
 
 🏫 M.S. course at EffL Lab @POSTECH EE, South Korea
